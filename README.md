@@ -1,0 +1,1 @@
+C++ MFC tool for determining PC name and sid
